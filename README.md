@@ -1,1 +1,1 @@
-# Notes app frontend made my React
+# Notes app frontend made with React
